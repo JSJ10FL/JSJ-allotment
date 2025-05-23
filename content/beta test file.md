@@ -1,7 +1,6 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Where to grow beans
 draft: false
 tags:
-  - 
 ---
  
