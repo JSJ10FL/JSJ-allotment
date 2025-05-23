@@ -3,7 +3,7 @@ title: Welcome
 ---
 There are all kinds of green and growing things around here
 
-![](_allotment.jpg)
+![A green space](_allotment.jpg)
 
 
 ## How and what  
