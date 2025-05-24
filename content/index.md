@@ -7,8 +7,9 @@ There are all kinds of green and growing things around here
 
 
 ## How and what  
-[[How to grow potatoes]]  
+[[How to grow potatoes]]    
 [[Potatoes]]  
-[[What to do about slugs]]  
+[[What to do about slugs]]    
 [[Where to grow beans]]  
+
 
