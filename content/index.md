@@ -1,14 +1,13 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-05-31T21:14
+updated: 2025-05-31T21:24
 ---
 There are all kinds of green and growing things around here
 
 ![A green space](_allotment.jpg)
 ## How and what  
 
-A brief tour starts [here](jsjallotment.md)
 
 [[How to grow potatoes]]  
 [[Potatoes]]  
