@@ -1,11 +1,11 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T07:42
+updated: 2025-06-01T08:36
 ---
 There are all kinds of green and growing things around here
 
-![A green space](/images_allotment.jpg)
+![A green space](_allotment.jpg)
 
 
 ## How and what  
