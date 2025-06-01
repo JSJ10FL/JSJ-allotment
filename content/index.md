@@ -1,12 +1,12 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T14:06
+updated: 2025-06-01T14:11
 ---
 There are all kinds of green and growing things around here
 
 <!-- Start of Image Embed - Float Right -->
-<figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
+<figure style="margin: 0 0 1rem 1rem; width: 35%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
     <img src="_allotment.jpg" style="width: 100%; height: auto; display: block;" alt="A digital pick-your-own">
     <figcaption style="font-size: 0.9em; color: #666; text-align: right; margin-top: 0.5rem;">
         <details>
@@ -38,11 +38,11 @@ You will find several different beds, where you can help yourself to whatever lo
 
 Let me know if you find anything to savour, and if you ideas about what else would be helpful to find here.  
 
-You can reach me at: elgon@posteo.net
+You can reach me at: elgon@posteo.net  
 
 <!-- Start of Image Embed - Float Right -->
-<figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
-    <img src="_trug.jpg" style="width: 80%; height: auto; display: block;" alt="A full trug">
+<figure style="margin: 0 0 1rem 1rem; width: 35%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
+    <img src="_trug.jpg" style="width: 100%; height: auto; display: block;" alt="A full trug">
     <figcaption style="font-size: 0.9em; color: #666; text-align: right; margin-top: 0.5rem;">
         <details>
             <summary style="font-size: 0.8em; cursor: pointer; outline: none;">Show attribution</summary>
@@ -74,7 +74,7 @@ Cook, chew, enjoy, feast together, as soon as you are ready.
 Or plant, tend and look forward to harvest sometime later.  
 
 <!-- Start of Image Embed - Float Right -->
-<figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
+<figure style="margin: 0 0 1rem 1rem; width: 35%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
     <img src="_bench.jpg" style="width: 100%; height: auto; display: block;" alt="A place to pause and pray">
     <figcaption style="font-size: 0.9em; color: #666; text-align: right; margin-top: 0.5rem;">
         <details>
