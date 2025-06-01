@@ -1,7 +1,7 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T12:28
+updated: 2025-06-01T13:14
 ---
 There are all kinds of green and growing things around here
 
@@ -10,10 +10,10 @@ There are all kinds of green and growing things around here
 ### A digital pick-your-own for growing healthy churches
 <!-- Start of Image Embed - Float Right -->
 <figure style="margin: 0px 0px 1rem 1rem; width: 42%; float: right; border: 1px solid rgb(222, 226, 230); padding: 2px; border-radius: 0.25rem;">
-    <img src="_trug.jpg" style="width:100%" alt="">
+    <img src="_trug.jpg" style="width:50%" alt="">
     <figcaption style="font-size: 0.9em; color:#666; text-align: right">
       <details><summary style="font-size: 0.8em">Show attribution</summary>
-        <small><a </a></small>
+        <small>ChatGPT</small>
       </details>Summer fruit and veg</figcaption>
     </figure>
 <!-- End of Image Embed - Float Right -->
@@ -27,11 +27,11 @@ You will find several different beds, where you can help yourself to whatever lo
 
 <!-- Start of Image Embed - Float Right -->
 <figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem;">
-    <img src="_bench.jpg" style="width: 100%; display: block;" alt=>
+    <img src="_bench.jpg" style="width: 50%; display: block;" alt=>
     <figcaption style="font-size: 0.9em; color: #666; text-align: right;">
         <details>
             <summary style="font-size: 0.8em; cursor: pointer;">Show attribution</summary>
-            <small>ChatGPT</small>
+            <small>Wikicommons</small>
         </details>A place to pray</figcaption>
 </figure>
 <!-- End of Image Embed - Float Right -->
