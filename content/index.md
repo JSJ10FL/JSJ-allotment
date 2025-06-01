@@ -1,7 +1,7 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T13:58
+updated: 2025-06-01T14:06
 ---
 There are all kinds of green and growing things around here
 
@@ -42,7 +42,7 @@ You can reach me at: elgon@posteo.net
 
 <!-- Start of Image Embed - Float Right -->
 <figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
-    <img src="_trug.jpg" style="width: 100%; height: auto; display: block;" alt="A full trug">
+    <img src="_trug.jpg" style="width: 80%; height: auto; display: block;" alt="A full trug">
     <figcaption style="font-size: 0.9em; color: #666; text-align: right; margin-top: 0.5rem;">
         <details>
             <summary style="font-size: 0.8em; cursor: pointer; outline: none;">Show attribution</summary>
