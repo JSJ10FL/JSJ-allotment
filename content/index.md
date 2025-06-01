@@ -1,7 +1,7 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T13:51
+updated: 2025-06-01T13:58
 ---
 There are all kinds of green and growing things around here
 
@@ -36,8 +36,9 @@ Come on in, simply because you are curious, or because you have a question you w
 You will find several different beds, where you can help yourself to whatever looks tasty.  
 
 
-Let me know if you find anything to savour, and if you ideas about what else would be helpful to find here. You can reach me at: elgon@posteo.net
+Let me know if you find anything to savour, and if you ideas about what else would be helpful to find here.  
 
+You can reach me at: elgon@posteo.net
 
 <!-- Start of Image Embed - Float Right -->
 <figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
@@ -70,7 +71,7 @@ Check out growing guides, with suggestions that you can always ignore, and recip
 
 Cook, chew, enjoy, feast together, as soon as you are ready.  
 
-You could choose to plant, tend and look forward to harvest sometime later.  
+Or plant, tend and look forward to harvest sometime later.  
 
 <!-- Start of Image Embed - Float Right -->
 <figure style="margin: 0 0 1rem 1rem; width: 42%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
