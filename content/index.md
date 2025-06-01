@@ -1,7 +1,7 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T14:20
+updated: 2025-06-01T14:22
 ---
 There are all kinds of green and growing things around here
 
@@ -75,6 +75,7 @@ Cook, chew, enjoy, feast together, as soon as you are ready.
 
 
 Or plant, tend and look forward to harvest sometime later.  
+***  
 
 <!-- Start of Image Embed - Float Right -->
 <figure style="margin: 0 0 1rem 1rem; width: 35%; float: right; border: 1px solid #dee2e6; padding: 2px; border-radius: 0.25rem; box-sizing: border-box;">
