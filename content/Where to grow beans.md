@@ -4,4 +4,8 @@ draft: false
 tags:
 ---
  
+ 
+ Always plant beans while facing East...
+ Testing editor
+ 
 [[How to grow potatoes]]

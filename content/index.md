@@ -1,7 +1,7 @@
 ---
 title: Welcome
 created: 2025-05-24T22:06
-updated: 2025-06-01T14:22
+updated: 2025-06-02T10:00
 ---
 There are all kinds of green and growing things around here
 
@@ -66,7 +66,7 @@ You can reach me at: elgon@posteo.net
 </style>
 <!-- End of Image Embed - Float Right -->
 
-Fill your trug with as much as you can cook, or those around you can eat  
+Fill your trug with as much as you can cook, or those around you can gladly eat  
 
 
 Check out growing guides, with suggestions that you can always ignore, and recipes from earlier years and other cultures.  There is nothing new under the sun, and there is certainly nothing new around here.  
@@ -101,7 +101,7 @@ Or plant, tend and look forward to harvest sometime later.
 </style>
 <!-- End of Image Embed - Float Right -->
 
-There is a bench at the centre, where you can pray before you dive in  
+There is a bench where you can pray before you dive in  
 
 Enjoy.  
 
